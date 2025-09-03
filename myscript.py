@@ -1,3 +1,3 @@
 def double(n):
-	r = n * 3
+	r = n * 2
 return r
